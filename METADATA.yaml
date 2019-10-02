@@ -28,6 +28,7 @@ communication:
       - `#wg-outreach` - main channel for outreach related real time communication (open to anyone)
       - `#docs` - for everything documentation related
       - `#amp-conf` - for everything AMP Conf related"  - channel: status_updates
+  - channel: status_updates
     name: Status Updates
     content: "Outreach Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
   - channel: announcements
