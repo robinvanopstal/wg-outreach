@@ -23,11 +23,11 @@ members:
 communication:
   - channel: slack
     name: Slack
-    content: "Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877))
-    + #wg-outreach - main channel for outreach related real time communication (open to anyone)
-    + #docs - for everything documentation related
-    + #amp-conf - for everything AMP Conf related"
-  - channel: status_updates
+    content: |
+      "Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877))
+      - `#wg-outreach` - main channel for outreach related real time communication (open to anyone)
+      - `#docs` - for everything documentation related
+      - `#amp-conf` - for everything AMP Conf related"  - channel: status_updates
     name: Status Updates
     content: "Outreach Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
   - channel: announcements
